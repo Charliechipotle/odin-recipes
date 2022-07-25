@@ -6,6 +6,8 @@
 }
 .homelist {
     font-size: 25px;
+    list-style: none;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -18,13 +20,6 @@ h3 {
     text-align: center;
 }
 p {
-    text-align: center;
-}
-ul {
-    text-align: center;
-    list-style: none;
-}
-ol {
     text-align: center;
 }
 img {
