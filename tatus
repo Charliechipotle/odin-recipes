@@ -1,0 +1,71 @@
+[33mcommit 40944519ccbdc465bbfc7ca6fe22e4ac6af117b5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Sun Jul 24 19:33:31 2022 -0600
+
+    Created CSS and linked in pages
+
+[33mcommit c38d7d3273046b0a2fc44aff5cd113d9f26e9e41[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 16:12:34 2022 -0600
+
+    Edit spelling errors and titles
+
+[33mcommit 6590e601f90eddbd1fc3deda8918e8b2227e0509[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 16:11:59 2022 -0600
+
+    Edit spelling and titles
+
+[33mcommit da738a0ccdd422ac5a21739b8514ec71b028f4ac[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 15:35:01 2022 -0600
+
+    Update links in index.html made into a list
+
+[33mcommit eeb3f2fbc986969b60c360200a05ba8a5f0b39ba[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 15:27:42 2022 -0600
+
+    Make roasted asparagus.html
+
+[33mcommit 0fdcb2fb700f8a3c8407e67ecb6a6d9804906eff[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 14:15:29 2022 -0600
+
+    Add link to index.html
+
+[33mcommit dc30e203b5a52baaf24aa8bea1a6018d7de8da9f[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 14:09:50 2022 -0600
+
+    Make Caeser-sald.html and fix typo in eggs-bendict.html
+
+[33mcommit bf6b4fbb93d7d6f34190fed105c7ed10979e6887[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Thu Jul 7 10:58:40 2022 -0600
+
+    Add image and recipe  to eggs-benedict.html
+
+[33mcommit 1428c575f2d1bbdcc845fea5fba1bdafa2134131[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Wed Jul 6 17:40:37 2022 -0600
+
+    Update index.html and create eggs-benedict.html
+
+[33mcommit 221aa408ac01225b68817b93b505b533c84143af[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Wed Jul 6 17:17:25 2022 -0600
+
+    Make index
+
+[33mcommit f6de468a879d9c1343263ad9683e348a89240569[m
+Author: Scott Allan <scottallan51@gmail.com>
+Date:   Wed Jul 6 17:13:22 2022 -0600
+
+    Edit README.md
+
+[33mcommit 1321cc29ca66eaea234281f8425aa6300b61b896[m
+Author: Scott <104589694+Charliechipotle@users.noreply.github.com>
+Date:   Wed Jul 6 17:03:18 2022 -0600
+
+    Initial commit
